@@ -12,17 +12,9 @@ Before running the project, ensure you have the following installed:
 * Python 3.6 or higher
 * Required Python packages: transformers, torch
 
-You can install the necessary packages using pip:
-pip install transformers torch
-
 # Installation
 1. Clone this repository or download the source code.
 2. Navigate to the project directory and install the dependencies:
-
-cd multi-language-translator
-pip install -r requirements.txt
-(Note: If requirements.txt is not provided, use the pip command above to install transformers and torch.)
-
 3. Ensure you have a stable internet connection to download the pre-trained models from Hugging Face.
 
 # Usage
@@ -37,7 +29,7 @@ Follow the on-screen prompts:
 
 Example
 text
-Welcome to the Multi-Language Translator!
+Welcome to the Real-Time-Language-Translator!
 Available languages:
 - English (en)
 - Spanish (es)
@@ -77,11 +69,11 @@ Contributions are welcome! If you'd like to enhance this project, please fork th
 * Fixing bugs or improving documentation.
 
 # License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the [MIT License](https://opensource.org/license/MIT).
 
 # Acknowledgments
 The project utilizes the transformers library by Hugging Face and the pre-trained MarianMT models by Helsinki-NLP.
 Special thanks to the open-source community for their tools and resources.
 
-# Contact
-For questions or feedback, please open an issue on this repository or contact the maintainers directly.
+# Author
+[Akash VR](https://github.com/AkashVR07)
