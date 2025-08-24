@@ -46,6 +46,10 @@ Enter target language: Spanish
 Enter text to translate from English to Spanish (or type 'exit' to quit): Hello, how are you?
 Translated Text: Hola, ¿cómo estás?
 
+# Snapshot
+<img width="1002" height="787" alt="Snapshot" src="https://github.com/user-attachments/assets/cc09e37f-081a-4d02-86b2-d81990894317" />
+
+
 # Supported Languages
 The translator supports the following languages:
 
