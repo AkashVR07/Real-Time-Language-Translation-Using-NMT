@@ -27,12 +27,9 @@ Required Python packages:
 # Usage
 Run the translator app with:
 ```python main.py```
-Steps:
-1. Launch the app — the window opens with Source Language fixed to English.
-2. Select your Target Language from the dropdown list.
-3. Click "Load Translation Model" (this downloads and loads the MarianMT model).
-4. Type your text in the input box — translations will appear in real-time.
-5. View status updates (Ready, Translating, Complete, or Error) at the bottom.
+
+# Snapshot
+<img width="1002" height="787" alt="Snapshot" src="https://github.com/user-attachments/assets/cc09e37f-081a-4d02-86b2-d81990894317" />
 
 Example
 
@@ -40,25 +37,3 @@ Example
 * Target Language: French
 * Input: "Hello, how are you?"
 * Output: "Bonjour, comment ça va ?"
-
-# Snapshot
-<img width="1002" height="787" alt="Snapshot" src="https://github.com/user-attachments/assets/cc09e37f-081a-4d02-86b2-d81990894317" />
-
-
-# Contributing
-Contributions are welcome! You can enhance this project by:
-
-* Adding support for more source languages.
-* Improving translation accuracy/speed.
-* Enhancing the GUI (themes, layouts, voice input, etc.).
-* Fixing bugs or updating documentation.
-
-# License
-This project is licensed under the [MIT License](https://opensource.org/license/MIT).
-
-# Acknowledgments
-The project utilizes the transformers library by Hugging Face and the pre-trained MarianMT models by Helsinki-NLP.
-Special thanks to the open-source community for their tools and resources.
-
-# Author
-[Akash VR](https://github.com/AkashVR07)
