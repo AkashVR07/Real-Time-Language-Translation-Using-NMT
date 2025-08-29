@@ -35,5 +35,5 @@ Example
 
 * Source Language: English
 * Target Language: French
-* Input: "Hello, how are you?"
-* Output: "Bonjour, comment ça va ?"
+* Input: "I love to read books and listen to music."
+* Output: "Me encanta leer libros y escuchar música."
